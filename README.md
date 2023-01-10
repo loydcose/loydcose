@@ -13,13 +13,11 @@ A fullstack developer with a background in graphic design, I specialize in creat
 ## Previous Work
 
 - [Stylewise](https://github.com/loydcose/stylewise) - A fullstack e-commerce web application for selling apparel built with SSR.
-- [Pokemon App](https://github.com/loydcose/pokemon-app) - An app that allows you to browse and search for your favorite Pokémon and learn more about them.
-- [Covid-19 Tracker](https://github.com/loydcose/covid-tracker) - An application that monitors the cases, recoveries, etc., of covid-19 disease globally.
 
 ## Contact
 
 Feel free to contact me through the following channels:
 
-- Email: [loydcose.01@gmail.com](mailto:loydcose.01@gmail.com)
-- Instagram: [loydcose](https://www.instagram.com/loydcose/)
-- Linkedin [Loyd Cose](https://www.linkedin.com/in/loyd-cose-a02b10255/)
+- Email: [loydcose@gmail.com](mailto:loydcose@gmail.com)
+- Instagram: [loyd_dev](https://www.instagram.com/loyd_dev)
+- Linkedin [Loyd Cose](https://www.linkedin.com/in/loyd-cose-a02b10255)

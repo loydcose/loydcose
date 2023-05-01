@@ -1,19 +1,23 @@
-# Loyd Cose - UI/UX & Frontend Developer
+# 👋 Loyd Cose - Frontend React Developer
 
-A frontend developer with a background in graphic design, I specialize in creating intuitive and visually appealing user interfaces using React and Tailwind. My main focus is on front-end development. My strong foundation in UI/UX design, paired with my technical skills, allow me to create dynamic and user-friendly web applications. 
+Passionate web developer from the Philippines with experience in building web applications using technologies such as React, NextJS, Express, and MongoDB. Prior to web development, worked as a freelance graphic designer with a keen interest in UI/UX development. Always eager to take on new challenges that enable further growth in skills and knowledge.
 
-## Tech Stacks
+## 👨‍💻 Tech Stacks
 
 - ReactJS
 - NextJS
 - Express
 - Tailwind CSS
-- Material UI
+- MongoDB
 
-## Contact
+## ✉️ Contact
 
-Feel free to contact me through the following channels:
+- [Portoflio](https://www.loydcose.me/)
+- [Email](mailto:loydcose@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/loydcose/)
+- [Instagram](https://www.instagram.com/loyd_dev)
+- [Twitter](https://twitter.com/loyd_dev)
 
-- Email: [loydcose@gmail.com](mailto:loydcose@gmail.com)
-- Instagram: [loyd_dev](https://www.instagram.com/loyd_dev)
-- Linkedin [Loyd Cose](https://www.linkedin.com/in/loyd-cose-a02b10255)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=loydcose&show_icons=true&locale=en" alt="loydcose" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=loydcose&" alt="loydcose" />

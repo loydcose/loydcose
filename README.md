@@ -1,5 +1,5 @@
 <b>Hi there 👋</b> <br>
-I'm loyd, a full stack developer & designer.
+I'm loyd, a full stack developer.
 
 ![](https://github.com/loydcose/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/loydcose/github-stats/blob/master/generated/languages.svg)
